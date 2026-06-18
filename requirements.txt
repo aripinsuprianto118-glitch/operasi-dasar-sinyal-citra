@@ -1,0 +1,5 @@
+ requirements
+numpy
+matplotlib
+opencv-python
+scipy
